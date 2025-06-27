@@ -18,9 +18,9 @@ This is a simple and fun JavaScript project that uses the [Dog CEO API](https://
 
 ![Random Dog API Screenshot]
 
-  https://github.com/user-attachments/assets/a42730b9-28bb-45e9-ae57-9a1b9be51d3c
-  
-  https://github.com/user-attachments/assets/bc92172e-1057-474f-bcf9-0791e6485a96
+![Screenshot 2025-06-27 214628](https://github.com/user-attachments/assets/d728c541-3cc4-450c-aeb7-295dcc168e69)
+ 
+![Screenshot 2025-06-27 214703](https://github.com/user-attachments/assets/7afb5e52-7eac-4c22-84c5-7222d5d73cc5)
 
 
 ---
