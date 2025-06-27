@@ -7,7 +7,8 @@ This is a simple and fun JavaScript project that uses the [Dog CEO API](https://
 
 ## 🚀 Live Demo
 
-🔗 [View Live Project Here](https://project-dog-api.vercel.app/)
+🔗 [View Live Project Here]:-
+    https://project-dog-api.vercel.app/
 
 ---
 
@@ -18,7 +19,7 @@ This is a simple and fun JavaScript project that uses the [Dog CEO API](https://
 ![Random Dog API Screenshot]
 
   https://github.com/user-attachments/assets/a42730b9-28bb-45e9-ae57-9a1b9be51d3c
-- Loading Page:-
+  
   https://github.com/user-attachments/assets/bc92172e-1057-474f-bcf9-0791e6485a96
 
 
